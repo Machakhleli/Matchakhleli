@@ -76,3 +76,6 @@ Landing page for tattoo studio (hero, services, gallery).
 <p align="center">
   <b>Thanks for visiting! ⭐</b>
 </p>
+
+![snake animation](https://raw.githubusercontent.com/Machakhleli/Machakhleli/output/github-contribution-grid-snake.svg)
+
