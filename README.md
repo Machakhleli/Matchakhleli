@@ -60,13 +60,12 @@ Responsive SCSS + JS UI with product cards, badges, and tooltips.
 Email: ushangikakhidze@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/usho-kakhidze-05330325a/
-## 🎉 Fun Animated Add-Ons
-### 🐍 Contribution Snake  
+
 
 <p align="center">⭐ Thanks for visiting! ⭐</p> 
 
 
-![snake animation](https://raw.githubusercontent.com/Machakhleli/Machakhleli/output/github-contribution-grid-snake.svg)
+
 
 
 
