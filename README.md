@@ -18,25 +18,24 @@
 
 ### 🔹 Weather App  
 React app with 7-day forecast, dynamic backgrounds, °C/°F switcher.  
-🔗 _Repo coming soon…_
+🔗 https://machakhleli.github.io/Weather-app/
+
+---
+### 🔹 CSS Grid / Magazine Layout  
+Fully responsive layouts using CSS Grid + clamp().  
+🔗 https://machakhleli.github.io/fetch-countries-API/
+
+---
+
+### 🔹 Gues my number game  
+Landing page about guess my number game.  
+🔗 https://machakhleli.github.io/guess-my-number-/
 
 ---
 
 ### 🔹 Furniture Store UI  
 Responsive SCSS + JS UI with product cards, badges, and tooltips.  
-🔗 _Repo coming soon…_
-
----
-
-### 🔹 CSS Grid / Magazine Layout  
-Fully responsive layouts using CSS Grid + clamp().  
-🔗 _Repo coming soon…_
-
----
-
-### 🔹 Tattoo Studio MVP  
-Landing page for tattoo studio (hero, services, gallery).  
-🔗 _Repo coming soon…_
+🔗 https://machakhleli.github.io/nuclear-design--10x/
 
 ---
 
