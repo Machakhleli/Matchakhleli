@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Ushangi 👋</h1>
+<h1 align="center">Hi, I’m Usho 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Tailwind+%7C+JavaScript;Building+clean+and+responsive+UI;Always+learning+new+things" />
