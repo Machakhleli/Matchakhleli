@@ -47,7 +47,7 @@ Responsive SCSS + JS UI with product cards, badges, and tooltips.
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machakhleli&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machakhleli&layout=compact&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 ---
