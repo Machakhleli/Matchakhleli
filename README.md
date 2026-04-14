@@ -25,7 +25,7 @@ I am a **Front-End Developer** based in **Batumi, Georgia**, with a unique backg
 
 ## 📂 Featured Projects
 
-### 📸 [Elisabeths – Photography Studio Platform](https://github.com/Machakhleli/elisabeths)
+### 📸 [Elisabeths – Photography Studio Platform](https://elisabeths.vercel.app/)
 *A professional digital ecosystem for a photography studio.*
 - **Key Features:** Dynamic portfolio categories (Portrait, Family, Commercial), Client-specific private albums, and a modern, minimalist UI.
 - **Stack:** React, Tailwind CSS, Framer Motion.
