@@ -1,24 +1,24 @@
 <h1 align="center">Hi, I’m Usho 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+Tailwind+%7C+Node.js;Crafting+Digital+Experiences;Freelance+Solutions+Provider" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+Tailwind+%7C+JavaScript;Crafting+Clean+and+Responsive+UI;Building+Digital+Solutions" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a **Front-End Developer** based in **Batumi, Georgia**, with a unique background in **Economics** and **Journalism**. This blend allows me to approach web development with a focus on business goals and clear user communication. 
+I am a **Front-End Developer** based in **Batumi, Georgia**, with a background in **Economics** and **Journalism**. I focus on creating modern, user-centric web applications that solve real business problems.
 
-- 🚀 Specialized in building modern, high-performance web applications using **React**.
-- 🎨 Passionate about clean UI/UX, responsive design, and accessibility.
-- 💼 Currently working on freelance projects and digital solutions for local businesses.
-- 📚 Continuous learner, currently diving deeper into **Full-Stack development**.
+- 🚀 Specialized in building high-performance interfaces using **React** and **Tailwind CSS**.
+- 🎨 Strong emphasis on clean code, responsive layouts, and smooth user experiences.
+- 💼 Currently working on freelance projects for local businesses (Photography, Hospitality).
+- 📚 **Path to Full-Stack:** Currently expanding my knowledge in **Node.js** and **Databases** to build end-to-end digital products.
 
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,mongodb,postgre,vite,scss,figma,git" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,scss,git,github,vscode,figma" height="45" />
 </p>
 
 ---
@@ -26,18 +26,18 @@ I am a **Front-End Developer** based in **Batumi, Georgia**, with a unique backg
 ## 📂 Featured Projects
 
 ### 📸 [Elisabeths – Photography Studio Platform](https://elisabeths.vercel.app/)
-*A professional digital ecosystem for a photography studio.*
-- **Key Features:** Dynamic portfolio categories (Portrait, Family, Commercial), Client-specific private albums, and a modern, minimalist UI.
-- **Stack:** React, Tailwind CSS, Framer Motion.
+*A premium digital portfolio for a professional photographer.*
+- **Highlights:** Dynamic image galleries, modern minimalist design, and seamless navigation.
+- **Tech:** React, Tailwind CSS, Framer Motion.
 
 ### 🌤️ [Weather App](https://machakhleli.github.io/Weather-app/)
-*Real-time weather tracking with a focus on dynamic UX.*
-- **Features:** 7-day forecast, unit switcher (°C/°F), and background changes based on weather conditions.
-- **Stack:** React, OpenWeather API.
+*Interactive weather dashboard with real-time data.*
+- **Features:** 7-day forecast, dynamic visual themes, and unit conversion.
+- **Tech:** React, Weather API.
 
 ### 🛒 [Furniture Store UI](https://machakhleli.github.io/nuclear-design--10x/)
-*Clean and responsive E-commerce interface.*
-- **Focus:** Complex layouts with SCSS, product filtering logic, and interactive tooltips.
+*Responsive e-commerce interface built with a focus on UI architecture.*
+- **Focus:** Complex grid systems, SCSS modularity, and interactive elements.
 
 ---
 
@@ -54,7 +54,7 @@ I am a **Front-End Developer** based in **Batumi, Georgia**, with a unique backg
 ---
 
 ## 📫 Let's Connect
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+Looking for a modern website or want to collaborate on a project? Feel free to reach out!
 
 - **Email:** [ushangikakhidze@gmail.com](mailto:ushangikakhidze@gmail.com)
 - **LinkedIn:** [Usho Kakhidze](https://www.linkedin.com/in/usho-kakhidze-05330325a/)
