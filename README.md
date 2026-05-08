@@ -25,6 +25,11 @@ I am a **Front-End Developer** based in **Batumi, Georgia**, with a background i
 
 ## 📂 Featured Projects
 
+### 🛡️ [ShadowSEC](https://irakli85.github.io/shadowSEC/)
+*A secure and modern web interface focused on data protection and cybersecurity aesthetics.*
+- **Highlights:** Advanced responsive layouts, modern UI/UX design principles, and secure data handling presentation.
+- **Tech:** HTML, CSS, JavaScript, Modern Web API.
+
 ### 📸 [Elisabeths – Photography Studio Platform](https://elisabeths.vercel.app/)
 *A premium digital portfolio for a professional photographer.*
 - **Highlights:** Dynamic image galleries, modern minimalist design, and seamless navigation.
